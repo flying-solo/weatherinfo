@@ -3,7 +3,7 @@ import Dashboard from './pages/dashboard';
 
 function App() {
   return (
-    <div className="">
+    <div className="height70 shadow-2xl rounded-2xl my-auto mx-10">
       <Dashboard />
       </div>
   );
